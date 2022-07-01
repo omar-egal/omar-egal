@@ -8,7 +8,6 @@ Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Omar%20Egal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omar-egal/)](https://www.linkedin.com/in/omar-egal/)
 [![Medium Badge](https://img.shields.io/badge/Omar%20Egal-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@omar.egal/)](https://medium.com/@omar.egal/)
-[![Gmail Badge](https://img.shields.io/badge/-omar.egal@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Omar.Egal@gmail.com)](mailto:Omar.Egal@gmail.com)
 
 ## ⚡ Technologies
 
