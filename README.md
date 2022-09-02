@@ -27,3 +27,9 @@ I'm a DevOps Engineer pivoting from Education. I'm passionate about cloud comput
 
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=omar-egal%2Fomar-egal&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=omar-egal%2Fomar-egal)
+
+## Watch the 🐍
+
+<p align="center">
+  <img src="https://github.com/sourabmaity/sourabmaity/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
