@@ -1,18 +1,20 @@
-<h1 align="center">Hi 👋, I'm Omar</h1>
-I'm a DevOps Engineer transitions from Education. I'm passionate about cloud computing, I love AWS, and learning something every day. I am currently learning about AWS, Linux, Python, Docker, Terraform, Git, CI/CD and other DevOps tools.
+<h1 align="center">Hi , I'm Omar<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
 
-Find out more about me & feel free to connect with me here:
+<h4 align="center">
+I'm a DevOps Engineer transitions from Education. I'm passionate about cloud computing, I love AWS, and learning something every day. I am currently learning about AWS, Linux, Python, Docker, Terraform, Git, CI/CD and other DevOps tools.
+</h4>
 
-<!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
+
+
+<h4 align="left">Find out more about me & feel free to connect with me here:</h4>
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-Omar%20Egal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omar-egal/)](https://www.linkedin.com/in/omar-egal/)
 [![Medium Badge](https://img.shields.io/badge/Omar%20Egal-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@omar.egal/)](https://medium.com/@omar.egal/)
 
 ## ⚡ Technologies
-
-<!-- Check out the Badges folder for more badges -->
 
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -23,7 +25,6 @@ Find out more about me & feel free to connect with me here:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
-<!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=omar-egal&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omar-egal&hide=TeX&layout=compact)
