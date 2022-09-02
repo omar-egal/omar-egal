@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar</h1>
-I'm A budding DevOps Engineer. I'm passionate about cloud computing, I love AWS, and learning something every day. I am currently learning about AWS, Linux, Python, Docker, Terraform, Git, CI/CD and other DevOps tools.
+I'm a DevOps Engineer transitions from Education. I'm passionate about cloud computing, I love AWS, and learning something every day. I am currently learning about AWS, Linux, Python, Docker, Terraform, Git, CI/CD and other DevOps tools.
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
 
