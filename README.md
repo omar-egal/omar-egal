@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Omar<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <h4 align="center">
-I'm a DevOps Engineer pivoting from Education. I'm passionate about cloud computing, I love AWS, and learning something every day. I am currently learning about AWS, Linux, Python, Docker, Terraform, Git, CI/CD and other DevOps tools.
+I'm a Cloud Engineer and trainer. I'm passionate about cloud computing and I love learning something everyday. I am currently using and learning more about AWS, Linux, Python, Docker, K8s, Terraform, Git, CI/CD and other DevOps tools.
 </h4>
 
 <h4 align="left">Find out more about me & feel free to connect with me here:</h4>
